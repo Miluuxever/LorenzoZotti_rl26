@@ -9,7 +9,7 @@ Repository for the Robotics Lab 2026 course. The objective of this project is to
 ## Prerequisites
 
 To properly execute this project, you need to have:
-- A **Linux** operating system (e.g., native Ubuntu, WSL2, or virtual machine)[cite: 2].
+- A **Linux** operating system (e.g., native Ubuntu, WSL2, or virtual machine).
 - **Git** installed on the host machine.
 
 ---
